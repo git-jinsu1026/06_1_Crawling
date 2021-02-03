@@ -1,0 +1,23 @@
+{
+  "name": "06_1_Crawling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/git-jinsu1026/06_1_Crawling.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/git-jinsu1026/06_1_Crawling/issues"
+  },
+  "homepage": "https://github.com/git-jinsu1026/06_1_Crawling#readme",
+  "dependencies": {
+    "puppeteer": "^6.0.0"
+  }
+}
